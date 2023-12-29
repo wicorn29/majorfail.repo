@@ -35,7 +35,7 @@ Maintainer: alexzielenski <reposithree@gmail.com>
 Depends: firmware (>= 4.2)
 Architecture: iphoneos-arm
 Filename: ./debs/com.alexzielenski.zeppelin_2.1.0-12.deb
-Size: 932000
+Size: 954368
 MD5sum: b2306aca6cc4afe7ccc57210c98c0612
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Zepplin
