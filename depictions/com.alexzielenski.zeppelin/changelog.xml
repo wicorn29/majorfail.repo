@@ -1,0 +1,11 @@
+<changelog>
+	<changes>
+		<version>2.1.0-12</version>
+		<change>Support for moe addons by other tweaks</change>
+		<change>More stock icons</change>
+	</changes>
+	<changes>
+		<version>1.0.0-1</version>
+		<change>Error fetching</change>
+	</changes>
+</changelog>
