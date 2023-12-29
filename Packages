@@ -1,16 +1,16 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
-Section: Tweaks
+Package: org.coolstar.sileo
+Version: 2.5
+Section: Applications
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://wicorn29.github.io/majorfail.repo/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/org.coolstar.sileo_2.5.deb
+Size: 3031846
+MD5sum: dc81bf79416b4bc8812ca8041f2f8dc0
+Description: A modern APT package manager frontend
+Name: Selio
+Author: Error Fetch <wicorn29@gmail.com>
+Depiction: https://wicorn29.github.io/majorfail.repo/depictions/?p=org.coolstar.sileo
 
 Package: com.alexzielenski.zeppelin
 Version: 1.0.0-1
