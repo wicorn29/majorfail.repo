@@ -40,7 +40,7 @@ MD5sum: b2306aca6cc4afe7ccc57210c98c0612
 Description: This is a sample old package. Firmware should be lower than 7.0
 Name: Zepplin
 Author: alexzielenski <reposithree@gmail.com>
-Depiction: https://wicorn29.github.io/megafail.repo/depictions/?p=com.alexzielenski.zeppelin
+Depiction: https://wicorn29.github.io/major.repo/depictions/?p=com.alexzielenski.zeppelin
 
 
 
