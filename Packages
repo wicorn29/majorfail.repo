@@ -1,7 +1,7 @@
 Package: org.coolstar.sileo
 Version: 2.5
 Section: Applications
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: wicorn29 <wicorn29@gmail.com>
 Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
 Architecture: iphoneos-arm
 Filename: ./debs/org.coolstar.sileo_2.5.deb
