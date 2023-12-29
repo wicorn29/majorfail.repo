@@ -12,30 +12,16 @@ Name: New Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://wicorn29.github.io/majorfail.repo/depictions/?p=com.supermamon.newpackage
 
-Package: com.supermamon.oldpackage
+Package: com.alexzielenski.zeppelin
 Version: 1.0.0-1
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://wicorn29.github.io/majorfail.repo/depictions/?p=com.supermamon.oldpackage
-
-Package: com.alexzielenski.zeppelin
-Version: 2.1.0-12
-Section: Tweaks
-Maintainer: alexzielenski
-Depends: firmware (>4.3), mobilesubstrate, preferenceloader
+Maintainer: alexzielenski <reposithree@gmail.com>
+Depends: firmware (=>4.3), mobilesubstrate, preferenceloader
 Architecture: iphoneos-arm
 Filename: ./debs/com.alexzielenski.zeppelin_2.1.0-12.deb
 Size: 954352
 MD5sum: b2306aca6cc4afe7ccc57210c98c0612
 Description: Replaces carrier text with an image!
-Name: Zeppelin
-Author: alexzielenski
+Name:Zeppelin
+Author: alexzielenski <reposithree@gmail.com>
 Depiction: https://wicorn29.github.io/majorfail.repo/depictions/?p=com.alexzielenski.zeppelin
