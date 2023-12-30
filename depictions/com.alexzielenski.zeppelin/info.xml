@@ -14,11 +14,7 @@
 	<descriptionlist>
 		<description>Replaces carrier text with an image!</description>
 		<description>Replaces carrier text with an image!</description>
-		<description><![CDATA[
-		You can also have<br/> 
-		a multi-line item.
-		]]>
-		</description>
+		<description>#IMPORTANT# do NOT use carrier icon plugins from cydia, THEY WILL HARD BRICK YOUR DEVICE!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
